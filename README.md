@@ -1,6 +1,7 @@
 # PicoPitBox
 Custom CircuitPython HID controller for Logitech racing wheels — 9 buttons, 2 rotary encoders, and a full-featured GUI for mapping keyboard, mouse, or gamepad inputs using a Raspberry Pi Pico
 
+![plot](assests/1762795118177_48141782500172asdf325.jpeg) ![plot](assests/Screenshot_20251110_123159.png)
 About
 
 This project is a custom HID (Human Interface Device) designed to mount behind your Logitech racing wheel shifter. It’s powered by a Raspberry Pi Pico running CircuitPython, giving you a flexible and customizable input device for sim racing setups, flight sims, or general-purpose control panels.
